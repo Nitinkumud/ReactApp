@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nitinkumud/ReactApp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Nitinkumud/ReactApp/static/js/main.e34f08b9.chunk.js",
+    "main.js.map": "/Nitinkumud/ReactApp/static/js/main.e34f08b9.chunk.js.map",
+    "runtime-main.js": "/Nitinkumud/ReactApp/static/js/runtime-main.fff0c1b7.js",
+    "runtime-main.js.map": "/Nitinkumud/ReactApp/static/js/runtime-main.fff0c1b7.js.map",
+    "static/js/2.39513104.chunk.js": "/Nitinkumud/ReactApp/static/js/2.39513104.chunk.js",
+    "static/js/2.39513104.chunk.js.map": "/Nitinkumud/ReactApp/static/js/2.39513104.chunk.js.map",
+    "index.html": "/Nitinkumud/ReactApp/index.html",
+    "precache-manifest.bcefb9666fdbfd0235b1b6b63b91f818.js": "/Nitinkumud/ReactApp/precache-manifest.bcefb9666fdbfd0235b1b6b63b91f818.js",
+    "service-worker.js": "/Nitinkumud/ReactApp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Nitinkumud/ReactApp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.39513104.chunk.js.LICENSE": "/Nitinkumud/ReactApp/static/js/2.39513104.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Nitinkumud/ReactApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff0c1b7.js",
+    "static/js/2.39513104.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e34f08b9.chunk.js"
+  ]
+}
